@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bangho\\Desktop\\Terciario\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\Bangho\\Documents\\GitHub\\Programacion-I-Bergonzi-Juan-2024\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bangho\\Desktop\\Terciario\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\Bangho\\Documents\\GitHub\\Programacion-I-Bergonzi-Juan-2024\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bangho\\Desktop\\Terciario\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\Bangho\\Documents\\GitHub\\Programacion-I-Bergonzi-Juan-2024\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\Bangho\\Desktop\\Terciario\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectPath": "C:\\Users\\Bangho\\Documents\\GitHub\\Programacion-I-Bergonzi-Juan-2024\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\Bangho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bangho\\Desktop\\Terciario\\Ejercicio1\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\Bangho\\Documents\\GitHub\\Programacion-I-Bergonzi-Juan-2024\\Ejercicio1\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bangho\\AppData\\Roaming\\NuGet\\NuGet.Config",
