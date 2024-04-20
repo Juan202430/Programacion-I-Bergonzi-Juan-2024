@@ -1,0 +1,5 @@
+C:\Users\Bangho\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(Para)\Ejercicios(For)\Ejercicios(For)\obj\Debug\net8.0\Ejercicios(For).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bangho\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(Para)\Ejercicios(For)\Ejercicios(For)\obj\Debug\net8.0\Ejercicios(For).AssemblyInfoInputs.cache
+C:\Users\Bangho\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(Para)\Ejercicios(For)\Ejercicios(For)\obj\Debug\net8.0\Ejercicios(For).AssemblyInfo.cs
+C:\Users\Bangho\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(Para)\Ejercicios(For)\Ejercicios(For)\obj\Debug\net8.0\Ejercicios(For).csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(Para)\Ejercicios(For)\Ejercicios(For)\obj\Debug\net8.0\Ejercicios(For).sourcelink.json
