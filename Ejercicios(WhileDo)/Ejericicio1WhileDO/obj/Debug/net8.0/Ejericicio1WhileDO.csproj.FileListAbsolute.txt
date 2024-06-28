@@ -1,0 +1,15 @@
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\bin\Debug\net8.0\Ejericicio1WhileDO.exe
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\bin\Debug\net8.0\Ejericicio1WhileDO.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\bin\Debug\net8.0\Ejericicio1WhileDO.runtimeconfig.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\bin\Debug\net8.0\Ejericicio1WhileDO.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\bin\Debug\net8.0\Ejericicio1WhileDO.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\refint\Ejericicio1WhileDO.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\Ejericicio1WhileDO.genruntimeconfig.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejericicio1WhileDO\obj\Debug\net8.0\ref\Ejericicio1WhileDO.dll

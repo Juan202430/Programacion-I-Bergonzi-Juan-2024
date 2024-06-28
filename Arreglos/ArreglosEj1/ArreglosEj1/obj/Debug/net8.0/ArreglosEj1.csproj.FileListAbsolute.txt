@@ -1,0 +1,15 @@
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\bin\Debug\net8.0\ArreglosEj1.exe
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\bin\Debug\net8.0\ArreglosEj1.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\bin\Debug\net8.0\ArreglosEj1.runtimeconfig.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\bin\Debug\net8.0\ArreglosEj1.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\bin\Debug\net8.0\ArreglosEj1.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\refint\ArreglosEj1.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ArreglosEj1.genruntimeconfig.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Arreglos\ArreglosEj1\ArreglosEj1\obj\Debug\net8.0\ref\ArreglosEj1.dll

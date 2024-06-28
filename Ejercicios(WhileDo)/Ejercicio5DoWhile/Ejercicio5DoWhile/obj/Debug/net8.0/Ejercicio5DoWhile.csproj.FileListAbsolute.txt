@@ -1,0 +1,15 @@
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\bin\Debug\net8.0\Ejercicio5DoWhile.exe
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\bin\Debug\net8.0\Ejercicio5DoWhile.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\bin\Debug\net8.0\Ejercicio5DoWhile.runtimeconfig.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\bin\Debug\net8.0\Ejercicio5DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\bin\Debug\net8.0\Ejercicio5DoWhile.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\refint\Ejercicio5DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\Ejercicio5DoWhile.genruntimeconfig.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio5DoWhile\Ejercicio5DoWhile\obj\Debug\net8.0\ref\Ejercicio5DoWhile.dll

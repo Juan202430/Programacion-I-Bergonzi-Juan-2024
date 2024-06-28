@@ -1,0 +1,15 @@
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\bin\Debug\net8.0\Ejercicio2DoWhile.exe
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\bin\Debug\net8.0\Ejercicio2DoWhile.deps.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\bin\Debug\net8.0\Ejercicio2DoWhile.runtimeconfig.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\bin\Debug\net8.0\Ejercicio2DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\bin\Debug\net8.0\Ejercicio2DoWhile.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.AssemblyInfoInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.AssemblyInfo.cs
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.sourcelink.json
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\refint\Ejercicio2DoWhile.dll
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.pdb
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\Ejercicio2DoWhile.genruntimeconfig.cache
+C:\Users\Juan Bergonzi\Documents\GitHub\Programacion-I-Bergonzi-Juan-2024\Ejercicios(WhileDo)\Ejercicio2DoWhile\Ejercicio2DoWhile\obj\Debug\net8.0\ref\Ejercicio2DoWhile.dll

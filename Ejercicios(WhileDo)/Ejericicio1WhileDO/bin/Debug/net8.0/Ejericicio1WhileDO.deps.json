@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejericicio1WhileDO/1.0.0": {
+        "runtime": {
+          "Ejericicio1WhileDO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejericicio1WhileDO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
